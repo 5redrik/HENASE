@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract DALEY {
+    string public name = "DALY";
+    string public symbol = "DAL";
+    uint256 public totalSupply = 100000000; // 100 million tokens
